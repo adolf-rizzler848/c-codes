@@ -48,7 +48,7 @@ switch(option) {
         break;
 
     case 2:
-        // code
+        // code idid smthng
         upperprint(a, b, arr);
         break;
         
